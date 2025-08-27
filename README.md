@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I’m Calc5716!
 
-<!--
-**Calc5716/Calc5716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. 3rd Year Undergraduate Student**  
+Presidency University, Kolkata | Major: Statistics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Skills & Interests
+
+- **Programming:** Python (EDA, Data Analysis, Machine Learning), Web Development  
+- **Data Tools:** SQL (HackerRank Intermediate Certified)
+- **Other:** Eager learner, strong analytical mindset, quick problem solver
+
+---
+
+## 🎯 Experience
+
+- **Summer Internship** – Indian Statistical Institute (ISI), Kolkata  
+  *Certificate of Completion*
+
+---
+
+## 🌟 What Drives Me
+
+I'm passionate about making cool projects and contributing something valuable to the world. I love to turn data into insights and ideas into reality!
+
+---
+
+## 📈 Currently Learning
+
+- Advanced machine learning techniques
+- Building robust web applications
+- Real-world datasets and project deployment
+
+---
+
+## 📚 Certifications
+
+- SQL (Intermediate) – HackerRank
+
+---
+
+## 📬 Get in Touch
+
+<!-- Add your social links here if you want! -->
+<!-- Example:
+[LinkedIn](https://www.linkedin.com/in/paramesh-b-banerjee-422629315/) 
 -->
+
+---
+
+> “The best way to predict the future is to invent it.” – Alan Kay
+
+---
+
+Thanks for stopping by! 🚀
