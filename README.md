@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Calc5716!
+# 👋 Hi, I’m Paramesh!
 
 🎓 **B.Sc. 3rd Year Undergraduate Student**  
 Presidency University, Kolkata | Major: Statistics
